@@ -1,0 +1,7 @@
+Running: xsim.dir/caadder_behav/xsimk.exe -simmode gui -wdb caadder_behav.wdb -simrunnum 0 -socket 57110
+Design successfully loaded
+Design Loading Memory Usage: 4596 KB (Peak: 4596 KB)
+Design Loading CPU Usage: 249 ms
+Simulation completed
+Simulation Memory Usage: 5488 KB (Peak: 5488 KB)
+Simulation CPU Usage: 452 ms

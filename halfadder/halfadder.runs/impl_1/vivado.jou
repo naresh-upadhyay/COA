@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sun Feb 24 14:35:54 2019
+# Process ID: 2416
+# Current directory: C:/Users/Naresh/halfadder/halfadder.runs/impl_1
+# Command line: vivado.exe -log fulladde.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source fulladde.tcl -notrace
+# Log file: C:/Users/Naresh/halfadder/halfadder.runs/impl_1/fulladde.vdi
+# Journal file: C:/Users/Naresh/halfadder/halfadder.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source fulladde.tcl -notrace

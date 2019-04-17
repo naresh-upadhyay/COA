@@ -1,0 +1,7 @@
+Running: xsim.dir/tesb_fulladd_behav/xsimk.exe -simmode gui -wdb tesb_fulladd_behav.wdb -simrunnum 0 -socket 55592
+Design successfully loaded
+Design Loading Memory Usage: 4592 KB (Peak: 4592 KB)
+Design Loading CPU Usage: 77 ms
+Simulation completed
+Simulation Memory Usage: 5176 KB (Peak: 5176 KB)
+Simulation CPU Usage: 109 ms

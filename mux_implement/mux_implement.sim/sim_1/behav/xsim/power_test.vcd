@@ -1,0 +1,101 @@
+$date
+   Tue Mar 26 22:30:29 2019
+$end
+$version
+  2018.2
+$end
+$timescale
+  1ps
+$end
+$scope module mux2to4_tb $end
+$var wire 1 ! tout $end
+$var reg 1 " ta $end
+$var reg 1 # tb $end
+$var reg 1 $ tc $end
+$var reg 1 % td $end
+$var reg 1 & ts1 $end
+$var reg 1 ' ts0 $end
+$scope module multi2to4x_inst $end
+$var wire 1 ( i1 $end
+$var wire 1 ) i2 $end
+$var wire 1 * i3 $end
+$var wire 1 + i4 $end
+$var wire 1 , s0 $end
+$var wire 1 - s1 $end
+$var wire 1 ! fout $end
+$var wire 1 . m1 $end
+$var wire 1 / m2 $end
+$scope module mux_1 $end
+$var wire 1 ( a $end
+$var wire 1 ) b $end
+$var wire 1 , s $end
+$var wire 1 . out $end
+$var wire 1 0 w1 $end
+$var wire 1 1 w2 $end
+$var wire 1 2 s_c $end
+$upscope $end
+$scope module mux_2 $end
+$var wire 1 * a $end
+$var wire 1 + b $end
+$var wire 1 , s $end
+$var wire 1 / out $end
+$var wire 1 3 w1 $end
+$var wire 1 4 w2 $end
+$var wire 1 5 s_c $end
+$upscope $end
+$scope module mux_3 $end
+$var wire 1 . a $end
+$var wire 1 / b $end
+$var wire 1 - s $end
+$var wire 1 ! out $end
+$var wire 1 6 w1 $end
+$var wire 1 7 w2 $end
+$var wire 1 8 s_c $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1!
+1"
+0#
+0$
+0%
+0&
+0'
+0(
+0)
+0*
+1+
+1,
+1-
+0.
+1/
+00
+01
+02
+03
+14
+05
+06
+17
+08
+$end
+#80000
+1!
+1(
+0+
+0,
+0-
+1.
+0/
+10
+01
+12
+03
+04
+15
+16
+07
+18

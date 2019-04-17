@@ -1,0 +1,7 @@
+Running: xsim.dir/tes_bench_halfadd_behav/xsimk.exe -simmode gui -wdb tes_bench_halfadd_behav.wdb -simrunnum 0 -socket 52669
+Design successfully loaded
+Design Loading Memory Usage: 4592 KB (Peak: 4592 KB)
+Design Loading CPU Usage: 108 ms
+Simulation completed
+Simulation Memory Usage: 5176 KB (Peak: 5176 KB)
+Simulation CPU Usage: 187 ms

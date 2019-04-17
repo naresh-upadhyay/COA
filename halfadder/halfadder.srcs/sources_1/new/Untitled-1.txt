@@ -1,0 +1,63 @@
+module comparer2bit(
+    input wire[1:0] i,j,
+    output wire o
+);
+
+wire s0,s1;
+comparer c1 (.x(i[0]),.y(j[0]),.out(s0));
+comparer c2 (.x(i[1]),.y(j[1]),.out(s1));
+
+assign o= s0 & s1;
+endmodule
+
+
+
+`include "mux4.v"
+
+module mux4_tb;
+wire tout;
+reg ta, tb, tc, td, ts1, ts0;
+mux4 multi4x_inst( .i1(ta), .i2(tb), .i3(tc), .i4(td), .s0(ts0), .s1(ts1), .fout(tout) );
+initial
+begin
+// 1
+ta = 1'b1;
+tb = 1'b0;
+tc = 1'b1;
+td = 1'b1;
+ts0 = 1'b0;
+ts1 = 1'b1;
+#5 //2
+ta = 1'b0;
+tb = 1'b1;
+tc = 1'b0;
+td = 1'b0;
+ts0 = 1'b0;
+ts1 = 1'b1;
+#5 //3
+ta = 1'b0;
+tb = 1'b0;
+tc = 1'b1;
+td = 1'b0;
+ts0 = 1'b1;
+ts1 = 1'b0;
+#5 //4
+ta = 1'b0;
+tb = 1'b0;
+tc = 1'b0;
+td = 1'b1;
+ts0 = 1'b1;
+ts1 = 1'b1;
+#5 //5
+ta = 1'b1;
+tb = 1'b0;
+tc = 1'b0;
+td = 1'b0;
+ts0 = 1'b0;
+ts1 = 1'b0;
+
+$dumpfile("power_test.vcd");
+$dumpvars();
+
+end
+endmodule

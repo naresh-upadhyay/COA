@@ -1,0 +1,8 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/Naresh/ripple_carry_addder/ripple_carry_addder.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/Naresh/ripple_carry_addder/ripple_carry_addder.srcs/sources_1/new/caadder.v,1550640605,verilog,,,C:/Users/Naresh/ripple_carry_addder/ripple_carry_addder.srcs/sources_1/new/fulladder.v,caadder,,,,,,,,
+C:/Users/Naresh/ripple_carry_addder/ripple_carry_addder.srcs/sources_1/new/fulladder.v,1550637500,verilog,,C:/Users/Naresh/ripple_carry_addder/ripple_carry_addder.srcs/sources_1/new/caadder.v,,fulladder,,,,,,,,
+C:/Users/Naresh/ripple_carry_addder/ripple_carry_addder.srcs/sources_1/new/rcadder.v,1550638146,verilog,,,,rcadder,,,,,,,,

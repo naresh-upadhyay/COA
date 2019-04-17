@@ -1,0 +1,12 @@
+(SAIFILE
+   (SAIFVERSION "2.0")
+   (DIRECTION "backward")
+   (DESIGN )
+   (DATE "Wed Mar 27 09:31:02 2019")
+   (VENDOR "Xilinx, Inc")
+   (PROGRAM_NAME "Vivado Simulator")
+   (VERSION "2018.2")
+   (DIVIDER /)
+   (TIMESCALE  1 ps)
+   (DURATION  40000000)
+)

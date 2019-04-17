@@ -1,0 +1,9 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/Naresh/halfadder/halfadder.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/Naresh/halfadder/halfadder.srcs/sources_1/new/fulladde.v,1550997552,verilog,,C:/Users/Naresh/halfadder/halfadder.srcs/sources_1/new/test_fulladd.v,,fulladde,,,,,,,,
+C:/Users/Naresh/halfadder/halfadder.srcs/sources_1/new/halfadders.v,1549595407,verilog,,C:/Users/Naresh/halfadder/halfadder.srcs/sources_1/new/tes_bench_halfadd.v,,halfadd,,,,,,,,
+C:/Users/Naresh/halfadder/halfadder.srcs/sources_1/new/tes_bench_halfadd.v,1549597105,verilog,,,C:/Users/Naresh/halfadder/halfadder.srcs/sources_1/new/halfadders.v,tes_bench_halfadd,,,,,,,,
+C:/Users/Naresh/halfadder/halfadder.srcs/sources_1/new/test_fulladd.v,1550997989,verilog,,,C:/Users/Naresh/halfadder/halfadder.srcs/sources_1/new/fulladde.v,tesb_fulladd,,,,,,,,

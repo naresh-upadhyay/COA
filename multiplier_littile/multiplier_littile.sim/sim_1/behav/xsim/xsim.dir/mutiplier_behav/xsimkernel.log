@@ -1,0 +1,4 @@
+Running: xsim.dir/mutiplier_behav/xsimk.exe -simmode gui -wdb mutiplier_behav.wdb -simrunnum 0 -socket 50506
+Design successfully loaded
+Design Loading Memory Usage: 4584 KB (Peak: 4584 KB)
+Design Loading CPU Usage: 343 ms
